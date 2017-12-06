@@ -1,4 +1,5 @@
 //Testing wrapping in quotes allows instaniating a fuction in an object
+//Saw this on pluralsight.com in the 'New ES6 Syntax' Course
 
 var productView = {
   price: 5.99,
