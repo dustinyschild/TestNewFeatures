@@ -1,0 +1,12 @@
+{
+  "name": "TestNewFeatures",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ObjectLiterals.js",
+  "scripts": {
+    "start": "node ./ObjectLiterals.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
